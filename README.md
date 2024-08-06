@@ -4,19 +4,6 @@
 
 I am a passionate full-stack junior web developer, self-taught and dedicated to continuous learning and adopting new technologies to stay at the global forefront of programming. My journey in the tech world has empowered me to create scalable and user-friendly applications. I strive to stay updated on both frontend and backend technologies to ensure comprehensive and innovative development solutions.
 
-<!--
-**Wilmernm/Wilmernm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
-
-<img alt="SomeGif" 
-  src="https://giphy.com/embed/xThuWgyzVrLshFkP7O" 
-  align="right"
-  width="480" 
-  height="480" 
-  style="" 
-  frameBorder="0" 
-  class="giphy-embed"
-  />
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -37,7 +24,7 @@ I am a passionate full-stack junior web developer, self-taught and dedicated to 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-## 🧰 &nbsp;Version Controll & Tools 
+## 🧰 &nbsp;Version Control & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -52,31 +39,14 @@ I am a passionate full-stack junior web developer, self-taught and dedicated to 
 ![TablePlus](https://img.shields.io/badge/tableplus-000000?style=for-the-badge&logo=tableplus&logoColor=white)&nbsp;
 ![GitKraken](https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)&nbsp;
 
-
 ## 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wilmern);
- 
-
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wilmern)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-
-<a href="www.linkedin.com/in/wilmer-núñez-407961181">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:wilmer_nm@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="https://www.instagram.com/wilmer_nm/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/Wilmernz/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wilmer-núñez-407961181"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:wilmer_nm@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://www.instagram.com/wilmer_nm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/Wilmernz/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
-
-## ⛩️  &nbsp;That's How Commits move...  ⛩️
-
-<div align="center">
-  <a href="https://github.com/Wilmernm">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
