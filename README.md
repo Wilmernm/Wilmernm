@@ -1,13 +1,13 @@
 ## Hi there I´m Wilmer Nuñez 👋
 
 
-## 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About me
 
 I´m a passionate full-stack junior web developer, self-taught and dedicated to continuous learning and adopting new technologies to stay at the global forefront of programming. My journey in the tech world has empowered me to create scalable and user-friendly applications. I strive to stay updated on both frontend and backend technologies to ensure comprehensive and innovative development solutions.
 
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Swift](https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
@@ -28,7 +28,7 @@ I´m a passionate full-stack junior web developer, self-taught and dedicated to 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-## 🧰 &nbsp;Version Control & Tools 
+## 🧰 &nbsp;Version control & tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -43,10 +43,10 @@ I´m a passionate full-stack junior web developer, self-taught and dedicated to 
 ![TablePlus](https://img.shields.io/badge/tableplus-000000?style=for-the-badge&logo=tableplus&logoColor=white)&nbsp;
 ![GitKraken](https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)&nbsp;
 
-## 💰 &nbsp;Support My Work
+## 💰 &nbsp;Support my work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wilmern)
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/wilmer-núñez-407961181"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
