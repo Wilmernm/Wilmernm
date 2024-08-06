@@ -5,7 +5,7 @@
 I am a passionate full-stack junior web developer, self-taught and dedicated to continuous learning and adopting new technologies to stay at the global forefront of programming. My journey in the tech world has empowered me to create scalable and user-friendly applications. I strive to stay updated on both frontend and backend technologies to ensure comprehensive and innovative development solutions.
 
 <!--
-**Wilmernm/Wilmernm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wilmernm/Wilmernm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 <img alt="SomeGif" 
   src="https://giphy.com/embed/xThuWgyzVrLshFkP7O" 
