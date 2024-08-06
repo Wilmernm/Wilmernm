@@ -1,8 +1,12 @@
 ## Hi there I´m Wilmer Nuñez 👋
 
+
 ## 👨🏻‍💻 &nbsp;About Me
 
 I am a passionate full-stack junior web developer, self-taught and dedicated to continuous learning and adopting new technologies to stay at the global forefront of programming. My journey in the tech world has empowered me to create scalable and user-friendly applications. I strive to stay updated on both frontend and backend technologies to ensure comprehensive and innovative development solutions.
+
+
+![Work From Home Cat](https://tenor.com/view/work-from-home-cat-job-lockdown-stay-home-gif-18905189)
 
 ## 🛠 &nbsp;Tech Stack
 
