@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-I am a passionate full-stack junior web developer, self-taught and dedicated to continuous learning and adopting new technologies to stay at the global forefront of programming. My journey in the tech world has empowered me to create scalable and user-friendly applications. I strive to stay updated on both frontend and backend technologies to ensure comprehensive and innovative development solutions.
+I´m a passionate full-stack junior web developer, self-taught and dedicated to continuous learning and adopting new technologies to stay at the global forefront of programming. My journey in the tech world has empowered me to create scalable and user-friendly applications. I strive to stay updated on both frontend and backend technologies to ensure comprehensive and innovative development solutions.
 
 
 
